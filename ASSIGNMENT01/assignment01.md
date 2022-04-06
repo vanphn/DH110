@@ -13,16 +13,18 @@ Teori is an educational site that is meant to provide lessons and practice with 
 
 #### 1. Visibility of System Status
 * With each lesson, the website does not inform users of how much their progression. While each part of the lesson is immediately shown to the users, once they begin, there is no appropriate feedback as to how many lessons remain. This may cause cognitive fatigue and force users to return to the index page to check how many they need to complete. (2)
-![IDK](https://github.com/[vanphn]/[DH110]/blob/[ASSIGNMENT01]/T1a.jpg?raw=true)
+
+> T1a
 > Recommendation: Have the index to the side of the lesson and highlight when a lesson is completed or have a progress bar to show completion
  
 #### 2. Match Between System and the Real World
-Unlike other blog posts that contain helpful resources such as articles, the layout of Teori’s article page does not make it appealing to users to search through and read. In addition, the layout of the “latest publication” banner does not match other banners or displayed in a way that draws the user’s attention to it. (1)
+* Unlike other blog posts that contain helpful resources such as articles, the layout of Teori’s article page does not make it appealing to users to search through and read. In addition, the layout of the “latest publication” banner does not match other banners or displayed in a way that draws the user’s attention to it.(1)
 Recommendation:  Redesign the layout of the articles in a way that is more interactive and prompts user to pay attention to the latest released articles
 (T2a)
+
 #### 3. User Control and Freedom
-*If users were to make a mistake on the exercises, the option to restart or end appears at the top, but is not made obvious since the button looks the same as other buttons such as the answer choices. (2)
-Recommendation: differentiate these options from the rest by color coding these options should users ever find themselves in an unwanted state and would like to pause or exit. 
+* If users were to make a mistake on the exercises, the option to restart or end appears at the top, but is not made obvious since the button looks the same as other buttons such as the answer choices.(2)
+> Recommendation: differentiate these options from the rest by color coding these options should users ever find themselves in an unwanted state and would like to pause or exit. 
 (T3a)
 *Users have the option to toggle between the English and Spanish version of the site, but this choice is not clearly marked (the site only displays the word English or Espanol in plain text). (2)
 Recommendation: Have the language option clearly displayed perhaps in its own box and lets users know they have the option to change the language with a toggle setting. 
