@@ -52,49 +52,49 @@ For the exercises, does not show show if the answer they click is wrong, only if
 *There are minimal instructions for completing the exercises. Additional information is provided when the user presses on the blue question mark icon next to the name of the exercise. However this icon is small and hard to spot. In addition, the help guide opens up in a new page with an overwhelming amount of information
 Recommendation: Instead of navigating the user to a different page, create a banner each time the user hover over the help icon. 
  
-About the website
+### Website 1: [8notes](https://www.8notes.com/)
 8Notes is a music training and lessons service that is run and owned by Red Balloon Technology Ltd. While mainly focused on providing free sheet music to novice and experts alike, they also provide a wide variety of resources on their site, including lessons, practice exercises, and play along tracks. The flexibility and free aspect of the site makes it a great choice for middle aged adults to find resources and learn music on their own time. 
  
-Does not prompt the user to start a new game
-The design is weird
-Font is small, makes it difficult to read 
- 
 #### 1. Visibility of System Status
-While navigating through the various lessons on the website, there is no progress bar or indications to help users identify how much they have completed. While the user can continue scrolling to view the index of lessons below, it is awkwardly displayed and takes up a large amount of unnecessary space on the screen. 
-Recommendation: Implicate a way to show progression for the user. This could mean moving the index to the side of the lesson to show users which lessons have been completed. Additionally, adding a progress bar at the top of the page could give users a better sense of understanding and control
+* While navigating through the various lessons on the website, there is no progress bar or indications to help users identify how much they have completed. While the user can continue scrolling to view the index of lessons below, it is awkwardly displayed and takes up a large amount of unnecessary space on the screen. 
+> Recommendation: Implicate a way to show progression for the user. This could mean moving the index to the side of the lesson to show users which lessons have been completed. Additionally, adding a progress bar at the top of the page could give users a better sense of understanding and control
 (N1a) 
+
 #### 2. Match Between System and the Real World
- 
-Recommendation:  
+* 
+> Recommendation:  
 (T2a)
+
 #### 3. User Control and Freedom
-*If users were to click on any part of the lesson, they only have the choice to continue from the lesson that they selected, and not anything prior. The only choice for viewing the previous lesson is to go back to the index page and manually select it. This can be a very frustrating experience while navigating through the lessons
-Recommendation: allow users to move back and forth freely without being constrained to only moving forward with the lesson they chose. 
+* If users were to click on any part of the lesson, they only have the choice to continue from the lesson that they selected, and not anything prior. The only choice for viewing the previous lesson is to go back to the index page and manually select it. This can be a very frustrating experience while navigating through the lessons
+> Recommendation: allow users to move back and forth freely without being constrained to only moving forward with the lesson they chose. 
  
 #### 4. Consistency and Standards
-*df
+* df
 Recommendation: 
 (T4a)
  
 #### 5. Error Prevention 
 *
-Recommendation:
+> Recommendation:
  
 #### 6. Recognition Rather Than Recall
-Recommendation:
+*
+> Recommendation:
  
 #### 7. Flexibility and Efficiency of Use
-Recommendation: 
+*
+> Recommendation: 
  
 #### 8. Aesthetic and Minimalist Design
-The design of the page is meant to be fun and inviting by including bright colors for the web’s theme. However, this creates a very cluttered appearance and overload the user with too much visual sensory detail. 
- 
- 
-Recommendation: 
+* The design of the page is meant to be fun and inviting by including bright colors for the web’s theme. However, this creates a very cluttered appearance and overload the user with too much visual sensory detail. 
+> Recommendation: 
 (T8a)
+
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 For certain exercises, there is minimal feedback each time the user answers a question 
 For the exercises, does not show show if the answer they click is wrong, only if it is correct
+
 #### 10. Help and Documentation
-*
-Recommendation: 
+* 
+> Recommendation: 
