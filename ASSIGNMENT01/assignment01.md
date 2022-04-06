@@ -12,7 +12,7 @@
 Teori is an educational site that is meant to provide lessons and practice with music theory. Users can browse through different sets of tutorials such as reading music and learning about intervals and scales. The site also allows users to modify the setting to create exercises that are most suitable for them and their learning. Lastly, there is a reference page to help quickly define musical terms.
 
 #### 1. Visibility of System Status
-* With each lesson, the website does not inform users of how much their progression. While each part of the lesson is immediately shown to the users, once they begin, there is no appropriate feedback as to how many lessons remain. This may cause cognitive fatigue and force users to return to the index page to check how many they need to complete. (2)
+* 
 ![image](T1a.png)
 > Recommendation: Have the index to the side of the lesson and highlight when a lesson is completed or have a progress bar to show completion
  
