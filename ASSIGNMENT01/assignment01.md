@@ -13,8 +13,7 @@ Teori is an educational site that is meant to provide lessons and practice with 
 
 #### 1. Visibility of System Status
 * With each lesson, the website does not inform users of how much their progression. While each part of the lesson is immediately shown to the users, once they begin, there is no appropriate feedback as to how many lessons remain. This may cause cognitive fatigue and force users to return to the index page to check how many they need to complete. (2)
-
-> T1a
+![image](T1a.png)
 > Recommendation: Have the index to the side of the lesson and highlight when a lesson is completed or have a progress bar to show completion
  
 #### 2. Match Between System and the Real World
