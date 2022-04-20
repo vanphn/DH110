@@ -5,9 +5,9 @@ Vanessa Phan | DH 110 | Spring 2022
 For adults, learning a new skill can often be a daunting and difficult process. While research reveals that learning to play music can have many health and lifestyle benefits such as improved memory and muscle coordination, this endeavor is often ill-designed for adults since most music teaching institutions are often catered towards children. Luckily, the availability of the internet as an online learning resource is increasingly becoming more popular by providing a more flexible educational experience. Due to the constraints of everyday life such as work or familial responsibility, picking up an instrument and learning about music will most likely be something that adults accomplish in their free time. This project focuses on investigating, understanding, and implementing new designs to create a more pleasant user experience while keeping in mind the targeted demographic of middle-aged men interested in learning music.
  
 ### Severity Ratings in Heuristic Evaluation - [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
-1 = Cosmetic problem only: need not be fixed unless extra time is available on project 
-2 = Minor usability problem: fixing this should be given low priority  
-3 = Major usability problem: important to fix, so should be given high priority
+1 = Cosmetic problem only: need not be fixed unless extra time is available on project.   
+2 = Minor usability problem: fixing this should be given low priority.   
+3 = Major usability problem: important to fix, so should be given high priority.    
 * Severity ratings will be indicated at the end of each heuristics and placed in parentheses
  
 ### Website 1: [Teoria](https://www.teoria.com/)
