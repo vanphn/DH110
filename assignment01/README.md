@@ -73,19 +73,19 @@ Teori is an educational site that provides lessons and practice for those intere
 <img width="700" alt="N1a" src="https://user-images.githubusercontent.com/63387277/164296374-85b3e0c8-5766-45f5-9dad-2ab56659a880.png">
  
 #### 2. Match Between System and the Real World
-* While the site includes pictures of each instrument on the home page, this is missing for much of the resources. For example, the tuner function contains the same picture for six different instruments, forcing readers to scan through them instead of quickly recognizing using pictures and icons
+* While the site includes pictures of each instrument on the home page, this is missing for much of the resources. For example, the tuner function contains the same picture for six different instruments, forcing readers to scan through them instead of quickly recognizing using pictures and icons (2)
 > Recommendation: add simple icons according each instruments so that users can quickly identify each sub pages. 
  
 #### 3. User Control and Freedom
-* If users were to click on any part of the lesson, they only have the choice to continue from the lesson that they selected, and not anything prior. The only choice for viewing the previous lesson is to go back to the index page and manually select it. This can be a very frustrating experience while navigating through the lessons
+* If users were to click on any part of the lesson, they only have the choice to continue from the lesson that they selected, and not anything prior. The only choice for viewing the previous lesson is to go back to the index page and manually select it. This can be a very frustrating experience while navigating through the lessons. (3)
 > Recommendation: allow users to move back and forth freely without being constrained to only moving forward with the lesson they chose. 
  
 #### 4. Consistency and Standards
-* Most other sites display the language option at the top of the page near the navigation bar where it is easily accessible. 8Notes have many different language options but they are located at the bottom of the page, which can be easily overlooked.
+* Most other sites display the language option at the top of the page near the navigation bar where it is easily accessible. 8Notes have many different language options but they are located at the bottom of the page, which can be easily overlooked. (1)
 > Recommendation: Move the language option to the top of the page with a toggle option to let users know what they can change the language
  
 #### 5. Error Prevention 
-* During the test training, there is no warning for when the next exercise begins after the user selects an answer. This may cause confusion and cause users to select the wrong answer by not knowing that the next test have begun
+* During the test training, there is no warning for when the next exercise begins after the user selects an answer. This may cause confusion and cause users to select the wrong answer by not knowing that the next test have begun. (2)
 > Recommendation: prompt the user to press a button to begin the next test or have a countdown/indication for when the next assignment begins. 
  
 #### 6. Recognition Rather Than Recall
@@ -96,17 +96,17 @@ Teori is an educational site that provides lessons and practice for those intere
 Recommendation: Declutter the main page that contains different categories of sheet music and make the option to categorize the types of sheet music more obvious and easy to configure
  
 #### 8. Aesthetic and Minimalist Design
-* The design of the page is bright, colorful, and includes many visual stimuli that helps users identify each musical instrument or theme. However, the website does have a cluttered appearance due to having too much information on each page. The lime green background coupled with an overload of images can create a create a jarring experienced that makes it harder to find information
+* The design of the page is bright, colorful, and includes many visual stimuli that helps users identify each musical instrument or theme. However, the website does have a cluttered appearance due to having too much information on each page. The lime green background coupled with an overload of images can create a create a jarring experienced that makes it harder to find information. (3)
 > Recommendation: aim for a more minimalistic design and reduce each page to only the most important detail. Eliminate unnecessary images and/or replace them with icons
 <img width="700" alt="N8a" src="https://user-images.githubusercontent.com/63387277/164296384-a4379b32-915b-450f-8cad-17fceb66862f.png">
  
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* For each training exercise, users do not receive feedback on the answer they chose and why that option is wrong. The correct answer is shown in very small text to the side of the page and the exercises begin without any action from the user. This may be frustrating as it does not give the learner enough time to process the information in order to improve
+* For each training exercise, users do not receive feedback on the answer they chose and why that option is wrong. The correct answer is shown in very small text to the side of the page and the exercises begin without any action from the user. This may be frustrating as it does not give the learner enough time to process the information in order to improve. (3)
 > Recommendation: Give the user feedback on the wrong answer they chose and provide the right answer as well. Provide more instructions at the start and end of each exercise. Wait until the user is ready (by having them click a button) before moving to the next exercise. 
 <img width="700" alt="N9a" src="https://user-images.githubusercontent.com/63387277/164296396-11769244-59e5-470c-a5b0-1948def07d10.png">
  
 #### 10. Help and Documentation
-* Unlike Teori, 8notes is less focused on musical exercises and therefore does not have an extensive help guide. Since some of the exercises are similar, it will be helpful for the user to have more information about the training. 
+* Unlike Teori, 8notes is less focused on musical exercises and therefore does not have an extensive help guide. Since some of the exercises are similar, it will be helpful for the user to have more information about the training. (2)
 * The help guide on the site’s footer only contains information on printing music, audio playback, and transposition and parts request. For the vast amount of information on the page, users would most likely navigate to the help page and would likely find that the information they need is located on the site tour. 
 Recommendation: make the help guide more comprehensive for users. Perhaps include a frequently asked question page. 
 <img width="600" alt="N10a" src="https://user-images.githubusercontent.com/63387277/164296394-659232b0-9105-4be3-b7e6-546c0831f8e1.png">
