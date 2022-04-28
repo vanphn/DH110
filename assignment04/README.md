@@ -2,11 +2,11 @@
 When designing a website, storytelling is crucial in understanding the user’s need and value so that these factors can be taken into consideration during the design process. By putting yourself into the shoes of another individual, the researcher is able to better empathize with the potential struggles of a demographic which could clarify difficult concepts and help generate new ideas. Since the scope of this project is music and learning, storytelling is a great tool for me to engage in the behavior, perspective, and attitude of the average user. 
 
 ### Persona and Empathy Map
-## Persona 1: Elliot Smith
+#### Persona 1: Elliot Smith
 <img width="709" alt="ElliotPersona" src="https://user-images.githubusercontent.com/63387277/165650303-41ab49ac-2296-498a-a498-97e707fdccd1.png">
 <img width="456" alt="ElliotEmpathy" src="https://user-images.githubusercontent.com/63387277/165650317-4279e7f1-0c76-4649-a80d-d0bc1483d3cd.png">
 
-## Persona 2: Roy Chen
+#### Persona 2: Roy Chen
 <img width="708" alt="RoyPersona" src="https://user-images.githubusercontent.com/63387277/165650310-995f1e7b-65a6-45b5-bda6-4f6e41fcafdd.png">
 <img width="456" alt="RoyEmpathy" src="https://user-images.githubusercontent.com/63387277/165650316-c3b5882f-d698-4448-9432-25712e6c40e5.png">
 
