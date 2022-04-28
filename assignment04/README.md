@@ -12,7 +12,7 @@ When designing a website, storytelling is crucial in understanding the user’s 
 
 ### Scenario and Journey Map
 #### Task 1
-> create a forum page to help users reach out to other musicians/learners and have a sense of community. 
+> Create a forum page to help users reach out to other musicians/learners and have a sense of community. 
 
 Scenario: 
 
@@ -23,7 +23,7 @@ Since he is not a user, when he tries to create a post, the site prompts him to 
 <img width="714" alt="EliotJourney" src="https://user-images.githubusercontent.com/63387277/165653349-cae08f07-b664-4c52-8b48-4a3ad27ce514.png">
 
 #### Task 2
-> create a survey option to identify the expertise level of the user.
+> Create a survey option to identify the expertise level of the user.
 
 Scenario: 
 
