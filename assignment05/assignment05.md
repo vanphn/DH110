@@ -26,4 +26,12 @@ For more information about the user persona and scenarios, click [here](https://
 
 <img width="969" alt="Screen Shot 2022-05-04 at 5 49 59 PM" src="https://user-images.githubusercontent.com/63387277/166849538-09cfb24f-f546-4607-a9f1-9e247dc98720.png">
 
+## User Interaction
+After creating the prototype, I got feedback from a user and asked them to walk though my design and describe their thought process
+
+https://user-images.githubusercontent.com/63387277/167041906-44077481-b033-4cb7-adde-b364ada9ebc4.mp4
+
+## Reflection
+Overall, I gained a lot of insight into creating prototypes by researching articles, learning to use new softwares, and thinking in terms of how a user would when they come across a website or an app. From my experience, I found that my tasks were too straightforward and there was not enough room to gain the amount of feedback that I desired. When I was creating the prototype, I also found the navigation bar at the bottom is not necessary to include when users entered certain parts of the site, such as when creating a new post. Knowing this, I may opt for a hamburger icon for users to navigate instead. From the user interaction interview, I learned that my user was confused about certain parts of the task and not sure about what it was trying to accomplish. In later iterations of my prototype, I will be sure to add more information and directions so that the user is not left guessing about each of their actions. 
+
 
