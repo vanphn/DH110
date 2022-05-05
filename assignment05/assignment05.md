@@ -27,7 +27,8 @@ For more information about the user persona and scenarios, click [here](https://
 <img width="969" alt="Screen Shot 2022-05-04 at 5 49 59 PM" src="https://user-images.githubusercontent.com/63387277/166849538-09cfb24f-f546-4607-a9f1-9e247dc98720.png">
 
 ## User Interaction
-After creating the prototype, I got feedback from a user and asked them to walk though my design and describe their thought process
+After creating the prototype, I got feedback from a user and asked them to walk though my design and describe their thought process.
+(The video can also be viewed [here](https://drive.google.com/file/d/1CYnEEvBIa2-h5mwOk6YdgJqB0h8Vhkeq/view?usp=sharing).)
 
 https://user-images.githubusercontent.com/63387277/167041906-44077481-b033-4cb7-adde-b364ada9ebc4.mp4
 
