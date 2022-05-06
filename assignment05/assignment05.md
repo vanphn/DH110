@@ -22,6 +22,7 @@ For more information about the user persona and scenarios, click [here](https://
 
 ## Wireframe and Wireflow
 [Link to the Whimsical page](https://whimsical.com/dh-a5-9QYvVVPojsS7JtwnCEQJCK)
+
 <img width="701" alt="Screen Shot 2022-05-04 at 5 49 44 PM" src="https://user-images.githubusercontent.com/63387277/166849532-468d994a-22f2-4c2c-8b72-dfa16aa7a547.png">
 
 <img width="969" alt="Screen Shot 2022-05-04 at 5 49 59 PM" src="https://user-images.githubusercontent.com/63387277/166849538-09cfb24f-f546-4607-a9f1-9e247dc98720.png">
