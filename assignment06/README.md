@@ -11,8 +11,10 @@ First, I began by analyzing and thought about changes to my example wireframe. T
 
 
 ## Design System
-
+### Layout
 <img width="749" alt="Screen Shot 2022-05-14 at 3 14 34 AM" src="https://user-images.githubusercontent.com/63387277/168421561-eb5a0b63-b182-42ac-b647-40f78824bd32.png">
+
+I chose the grid and layout system above to start designing. The margins are slightly bigger (20 px) than the 16 px standard but I thought it was better to play safe and make sure nothing is cut off. I toggled the rows on and off during this process whenever I was adding new components or text and followed the 4px guidelines. 
 
 ### Typographic Variation
 I decided one three different fonts for my design:
@@ -25,9 +27,7 @@ I decided one three different fonts for my design:
 
 <img width="941" alt="type variation" src="https://user-images.githubusercontent.com/63387277/168421576-24a4388f-6594-4ef2-95c8-ad09b468b6a0.png">
 
-
 I made slight changes to the font sizes of each of the typefaces since some vary in sizes. The font sizes were chosen according to the human interface guidelines [listed by Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/). In the end, I decided to proceed with Poppins since it is simple and easy to read yet still looks and feels casual and fun. This font family will be the only one I used throughout my design. 
-
 
 ### Shape Variation
 Since sharp square designs tend to look and feel outdated compared to more modern designs, I know that I wanted to add more roundness to the features of apps which were missing in the original website’s design. I tested three different variations for the shape of my components.
