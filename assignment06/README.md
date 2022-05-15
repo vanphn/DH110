@@ -64,7 +64,7 @@ Color
 * The dark mode does not show the drop shadow of the chip button, which was a feature that the user liked.
 * The gradient of the buttons and title were too harsh
 
-The link to the impression test can be found (here)[https://drive.google.com/file/d/1u9JUqpM7mBD-YjOrjTEErU-vjLnqKBaL/view?usp=sharing]
+The link to the impression test can be found [here](https://drive.google.com/file/d/1u9JUqpM7mBD-YjOrjTEErU-vjLnqKBaL/view?usp=sharing)
 
 
 ### Final Design and Summary
