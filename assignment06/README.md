@@ -45,10 +45,37 @@ In the end, I found that the hybrid version worked best for my design. The eleme
 ### Color Variation
 For the color palette of the app, I decided to do a variation of the original website color by opting for a slightly less vibrant green as my primary color. I then picked a more blue-ish variant of that color as my secondary (this is because I thought the colors blended nicely together as a gradient since they belong to the same color family). I had to change the hue of the green and blue/green colors several times until they were in accordance with the WCAG compliant. For the dark mode color scheme, I slightly lowered the shade of the primary colors so they do not clash with the dark background. I then checked the contrasts for all other components such as buttons and navigation. 
 
-<img width="960" alt="Screen Shot 2022-05-14 at 3 19 18 AM" src="https://user-images.githubusercontent.com/63387277/168421680-6e738372-194c-4537-a436-67eeb64d2371.png">
+<img width="828" alt="color variation" src="https://user-images.githubusercontent.com/63387277/168453985-7adcbd24-dc28-4bf8-b60f-31e7091f2942.png">
 
 ### Impression Test
-(Summary)
-The link to the impression test can be found (here)[Link]
+#### Summary
+Typography
+* Chalkboard font seems too bold and jarring
+* Prefers a mix between the Poppins and Barlow font: liked the Poppins font for header and Barlow for body text because it is easier to read
+
+Shape
+* Thought that the sharp corners are jarring, prefers the rounded shape design
+* Prefers the rounded shapes to still have some rectangular features
+* Enjoys the drop shadow of the button chips
+
+Color
+* Reminds the users of the dark/light theme of IOS platforms
+* Users did not enjoy the color scheme of the dark feature -- the dark green feels too heavy
+* The dark mode does not show the drop shadow of the chip button, which was a feature that the user liked.
+* The gradient of the buttons and title were too harsh
+
+The link to the impression test can be found (here)[https://drive.google.com/file/d/1u9JUqpM7mBD-YjOrjTEErU-vjLnqKBaL/view?usp=sharing]
+
 
 ### Final Design and Summary
+After the impression test, I reviewed the notes I got from my interviewee and made some changes that I thought was most important: 
+* I decided to incorporate two font faces in my design. I chose Poppins for the headline and buttons since it was bold and eye-catching. Barlow was used for the body since it was easy to read and most similar to the typeface of the original site (this helps keep some continuity between the website and the app)
+* The background color for the dark theme was changed from a dark forest green to a more neutral black/grey so it is less jarring for the user
+* A slight drop shadow was added to the dark theme
+* The gradient was made less drastic and changed from vertical gradient to horizontal gradient. The colors of the headline were changed from gradient to solid.
+
+The link to the final design can be found [here](https://www.sketch.com/s/986a40d0-0d1c-4be2-926f-f61a547e44e0/p/3951C7BF-9D7D-476B-B9E9-50BFD24911D3). 
+
+<img width="837" alt="Final design" src="https://user-images.githubusercontent.com/63387277/168453993-fb2b3dee-c954-4095-a278-cddf545c9720.png">
+
+Overall, I had a very fun time during this process and seeing all my research applied to a prototype. I designed this portion on Sketch instead of Figma and it was definitely a learning curve. I quickly found that it was very necessary to keep track of all the layers with proper layers to help ease editing later on (this will probably also help developers in the process). It was very helpful to get feedback from someone else when designer since I did not realized how deep I was in my head when designing that I did not notice where parts of my design were not cohesive (such as the dark theme background color). 
