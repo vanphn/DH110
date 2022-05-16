@@ -9,6 +9,9 @@ The purpose of this interface design is to refine previous low-fidelity prototyp
 
 First, I began by analyzing and thought about changes to my example wireframe. The link to the digitized wireframe can be found [here](https://whimsical.com/dh-a5-9QYvVVPojsS7JtwnCEQJCK). 
 
+This is the starting point for my interface design system:
+
+![LoFi_A5 (1)](https://user-images.githubusercontent.com/63387277/168539221-11ec36a6-3748-4537-b19d-193e3bf958e9.png)
 
 ## Design System
 ### Layout
