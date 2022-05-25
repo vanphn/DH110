@@ -1,0 +1,1 @@
+ngl i am nearing my limit school is chipping away at me and even though i really don't have much to do it's hard enough to get out of bed let alone dedicate 5+ hours to this class and everything I think about what it would be if I just didn't have to be here anymore but I'm not trying to pass my pain onto the people that I love ya heard?
