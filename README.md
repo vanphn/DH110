@@ -9,3 +9,4 @@ Vanessa Phan | UCLA | Spring 2022
 | 4 | UX Storytelling + Interaction Design | [Persona & Usage Scenario](https://github.com/vanphn/DH110/tree/main/assignment04) |
 | 5 | Prototyping | [Low Fidelity Prototype](https://github.com/vanphn/DH110/tree/main/assignment05) |
 | 6 | Interface Design | [Interface Design System](https://github.com/vanphn/DH110/tree/main/assignment06) |
+| 6 | Prototyping Pt 2 | [High Fidelity Prototype](https://github.com/vanphn/DH110/tree/main/assignment07) |
