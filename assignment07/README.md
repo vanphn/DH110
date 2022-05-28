@@ -17,10 +17,11 @@ The interactive prototype for task 1 can be found [here](https://www.figma.com/p
 
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/63387277/170822504-d138ee42-cf7f-4c6a-bcd2-487786dae058.png">
 
-The interactive prototype for task 1 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A786&scaling=min-zoom&page-id=17%3A604&starting-point-node-id=17%3A1598). 
+The interactive prototype for task 2 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A786&scaling=min-zoom&page-id=17%3A604&starting-point-node-id=17%3A1598). 
 
 ## Cognitive Walkthrough
 The first round of cognitive walkthroughs were conducted during instructional time with other peers in the class. Though there was a lack of in-depth feedback due to the time constraint, I was still able to obtain a lot of useful information that stood out most to my participants. They noticed a lack of labels when creating a new post and stated that the header “New Post” is typically found at the top of the screen to quickly inform users. Overall, they seemed to be generally clear on the process of adding a new post to the forum. One participant added that they would like to see more functionality when creating a post such as adding pictures and videos.
+
 They also expressed that the music sheet page was clear and easy to understand. The only comment I received was to separate the filters into different sections so that the filter for popularity is separate from the filter for difficulty and genre. This should help users feel less overwhelmed with all the options. 
 
 Documentation for the in-class cognitive walkthrough can be found [here](https://docs.google.com/document/d/1LL3I2ozaDk84dL10F7L_bx0BGF84R31pbPOXQePJiLg/edit).
