@@ -19,7 +19,7 @@ In this stage of the design process, I created high-fidelity interactive prototy
 #### Task 1: Create a new post on the discussion forum.
 
 <p align=”center”>
-<img width="904" alt="image" src="https://user-images.githubusercontent.com/63387277/170822440-f74d6961-1a3b-43ac-8a5a-bf87da9ebc6a.png">
+  <img width="904" alt="image" src="https://user-images.githubusercontent.com/63387277/170822440-f74d6961-1a3b-43ac-8a5a-bf87da9ebc6a.png">
 </p>
 
 The interactive prototype for task 1 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=2%3A1109&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A1109). 
@@ -27,7 +27,7 @@ The interactive prototype for task 1 can be found [here](https://www.figma.com/p
 #### Task 2: Sort music sheet by level of difficulty
 
 <p align=”center”>
-<img width="907" alt="image" src="https://user-images.githubusercontent.com/63387277/170822504-d138ee42-cf7f-4c6a-bcd2-487786dae058.png">
+  <img width="907" alt="image" src="https://user-images.githubusercontent.com/63387277/170822504-d138ee42-cf7f-4c6a-bcd2-487786dae058.png">
 </p>
 
 The interactive prototype for task 2 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A786&scaling=min-zoom&page-id=17%3A604&starting-point-node-id=17%3A1598). 
