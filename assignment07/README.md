@@ -7,7 +7,7 @@ With this project, I aim to create a music learning platform capable of providin
 #### Purpose and Process
 In this stage of the design process, I created high-fidelity interactive prototypes for the purpose of learning from user feedback and refining the product to produce the best user experience. First, I analyzed the feedback from my low-fidelity prototype and made the necessary changes to then create a [design system](https://github.com/vanphn/DH110/tree/main/assignment06). I then created high fidelity prototypes of several proposed tasks that the product would support. These prototypes then go through several rounds of (1) testing (2) cognitive walkthrough (3) analyze the issues based on feedback (4) refining the design
 
-## Tasks that my prototype supports
+## Interactive Prototype Tasks 
 1, Create a new post on the discussion forum
 > Users have the ability to connect with others by posting their thoughts and questions on the forum. This function can be easily identified through the navigation bar at the bottom. Currently, this feature allows for users to type in a topic, select a forum to post to, add additional tags, and add images and videos to the post. 
 2. Sort music sheet by level of difficulty
