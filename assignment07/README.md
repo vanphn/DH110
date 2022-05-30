@@ -1,21 +1,34 @@
 # Assignment 7: High Fidelity Prototype
 Vanessa Phan | DH 110 | Spring 2022
 
-## Project Summary
-With this project, I aim to create a music learning platform capable of providing direct and accessible musical resources for beginners. Instead of the original website which is currently not optimized for mobile uses, the redesigned product will be an app that will make it more convenient for users to access information through their smartphones. Additionally, the app will highlight the feature for musicians to connect with each other through discussions on the forum. In this stage of the design process, I created high-fidelity interactive prototypes for the purpose of learning from user feedback and refining the product to produce the best user experience. This process consisted of: (1) Create prototypes of certain tasks (2) testing the prototypes (3) analyze the issues based on feedback from cognitive walkthroughs (4) refining the product.
+## Project Description
+With this project, I aim to create a music learning platform capable of providing direct and accessible musical resources for beginners. Based on 8notes, an existing music resource website, my redesigned product will be optimized for mobile uses and make it more convenient for users to access information through devices that are more readily available to them. Additionally, the app will highlight the feature for musicians to connect with each other through discussions on the forum. 
+
+#### Purpose and Process
+In this stage of the design process, I created high-fidelity interactive prototypes for the purpose of learning from user feedback and refining the product to produce the best user experience. First, I analyzed the feedback from my low-fidelity prototype and made the necessary changes to then create a [design system](https://github.com/vanphn/DH110/tree/main/assignment06). I then created high fidelity prototypes of several proposed tasks that the product would support. These prototypes then go through several rounds of (1) testing (2) cognitive walkthrough (3) analyze the issues based on feedback (4) refining the design
+
+## Tasks that my prototype supports
+1, Create a new post on the discussion forum
+> Users have the ability to connect with others by posting their thoughts and questions on the forum. This function can be easily identified through the navigation bar at the bottom. Currently, this feature allows for users to type in a topic, select a forum to post to, add additional tags, and add images and videos to the post. 
+2. Sort music sheet by level of difficulty
+> For music learners, it can be frustrating to sort through lots of materials to find one that is suitable for their skill level. While the app provides extensive resources, I also want to implement ways for users to apply filters and access what they need quickly.
+3. Sign-Up and Onboarding (IN PROGRESS)
+> Helps user get started and assess their skill level with a quiz. 
 
 ## Wireflow with Interface Design
 #### Task 1: Create a new post on the discussion forum.
-* One of the main features I want to highlight with this app is the ability for users to connect with one another by asking questions and posting their thoughts on the forum. Users can easily identify this function through the navigation bar at the bottom. They should then be able to type in a topic, select the forum to post to, and add additional tags.
 
+<p align=”center”>
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/63387277/170822440-f74d6961-1a3b-43ac-8a5a-bf87da9ebc6a.png">
+</p>
 
 The interactive prototype for task 1 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=2%3A1109&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A1109). 
 
 #### Task 2: Sort music sheet by level of difficulty
-* For music learners, it can be frustrating to sort through materials to find one suitable for their skills level. The goal of the app is to provide earning resources such as sheet music while also implementing a way for users to quickly access what they need.  
 
+<p align=”center”>
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/63387277/170822504-d138ee42-cf7f-4c6a-bcd2-487786dae058.png">
+</p>
 
 The interactive prototype for task 2 can be found [here](https://www.figma.com/proto/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A786&scaling=min-zoom&page-id=17%3A604&starting-point-node-id=17%3A1598). 
 
@@ -32,4 +45,5 @@ Given these feedback, I made the following changes to my design:
 * allow for pictures and videos to be added with the post
 * Separate the features of the filters into two separate sections with similar functionality
 
-A link to the Figma file can be found [here](https://www.figma.com/file/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A604).
+The final iteration of the design can be found on Figma through the link [here](https://www.figma.com/file/wgaCVEQk6uGymM53sOn3sB/DH110-A7?node-id=17%3A604).
+
